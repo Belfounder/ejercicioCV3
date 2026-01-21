@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 224, 224);
+    font-family: verdana;
+    width: 40%;
+    border: double 5px rgb(114, 15, 15);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+h1,h2,h3,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    text-align: center;
+}

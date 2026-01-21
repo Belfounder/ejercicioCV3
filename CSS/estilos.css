@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(224, 224, 224);
+    font-family: verdana;
+    
+}
+h1,h2,h3,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    text-align: center;
+}
